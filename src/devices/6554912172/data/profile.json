@@ -1,0 +1,32 @@
+{
+	"GUID": "",
+	"ModeIndex": 0,
+	"Name": "",
+	"Active": 0,
+	"ModelID": 655491192,
+	"SpeedLevel": 3,
+	"Application": {
+		"AppName": "",
+		"AppPath": ""
+	},
+	"DriverLE": [{
+		"GUID": "",
+		"Name": ""
+	},
+	{
+		"GUID": "",
+		"Name": ""
+	},
+	{
+		"GUID": "",
+		"Name": ""
+	},
+	{
+		"GUID": "",
+		"Name": ""
+	},
+	{
+		"GUID": "",
+		"Name": ""
+	}]
+}

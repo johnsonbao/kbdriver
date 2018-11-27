@@ -1,0 +1,11 @@
+[{
+	"KeyName": "ESC",
+	"KeyIndex": 0,
+	"LogicCode": 0,
+	"LocationCode": 0,
+	"Position":{
+		"Width": 1,
+		"Height": 1,
+		"PaddingRight": 1
+	}
+}]
